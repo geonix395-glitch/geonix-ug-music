@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace 'com.geonix.ugmusic'
-    compileSdk 35
+    compileSdk 35 
 
     defaultConfig {
         applicationId 'com.geonix.ugmusic'
